@@ -139,6 +139,6 @@ class Api {
   }
   }
   // Замените на адрес вашего бэкенда
-  const api = new Api('http://api.pereyyra666.nomoredomains.icu');
+  const api = new Api('https://api.pereyyra666.nomoredomains.icu');
 
   export default api;
